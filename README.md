@@ -43,7 +43,5 @@ A simple web application that allows users to search for a city to get the curre
 <p><a href="https://getbootstrap.com/">Bootstrap</a></p>
 
 
-## Contributor:
-Sylvia Prabudy ©2020 All Rights Reserved.
-- - -
+
 
